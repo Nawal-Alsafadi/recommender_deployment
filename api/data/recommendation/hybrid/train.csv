@@ -1,0 +1,11 @@
+userID,productID,ratings,genres
+1,1,4.5,comedy
+1,2,3.0,scifi
+2,1,2.0,romance
+2,3,4.0,scifi
+3,2,5.0,comedy
+3,3,3.5,romance
+4,1,3.5,comedy
+4,3,2.5,romance
+5,2,4.0,comedy
+5,3,4.5,scifi
